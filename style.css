@@ -17,7 +17,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: url(/images/pattern-background-mobile.svg);
+  background: url(images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-color: hsl(225, 100%, 94%);
@@ -163,7 +163,7 @@ display: inline-block;
 
 @media all and (min-width: 600px) {
     main {
-        background: url(/images/pattern-background-desktop.svg);
+        background: url(images/pattern-background-desktop.svg);
         background-size: contain;
         background-repeat: no-repeat;
         background-color: hsl(225, 100%, 94%);
