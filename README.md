@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/design/OrderSummaryComponent.jpg)
+![](/design/summary%20card%20component2%20fixed.png)
 
 
 ### Links
